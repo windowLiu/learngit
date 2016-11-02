@@ -4,4 +4,4 @@ my name is liuwt hahah
 Git has a mutable index called stage
 Git tracks chaanges of files
 remote reporstory at 20161102
-Creating a new branch is quick
+Creating a new branch is quick and simple
