@@ -10,3 +10,5 @@ Creating a new branch is quick and simple.
 Creating a new branch is quick and simple
 >>>>>>> feeturel
 Creating a new branch is quick.
+hahhahahahhahahah哈哈哈哈哈哈哈13241234
+Creating a new branch is quick AND simple.
